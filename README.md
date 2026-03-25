@@ -28,4 +28,4 @@ Customer churn dataset with demographic, account, and service usage features.
 Python, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
 
 ## Repository
-[[Add your GitHub link here](https://github.com/syedasomia66-wq/-Customer-churn-prediction-)]
+[https://github.com/syedasomia66-wq/-Customer-churn-prediction-]
